@@ -1,0 +1,34 @@
+_repo: Antikristuksen-ihmetyot_47686
+alternative_title: Antikrists mirakler. Finnish
+contributor:
+  translator:
+    agent_name: Suomalainen, Jaakko
+    gutenberg_agent_id: '44424'
+    url: http://www.gutenberg.org/2009/agents/44424
+creator:
+  author:
+    agent_name: Lagerlöf, Selma
+    aliases:
+    - Lagerloef, Selma
+    - Lagerlof, Selma
+    - Lagerlöf, Selma Ottiliana Lovisa
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '1717'
+    url: http://www.gutenberg.org/2009/agents/1717
+    wikipedia: http://en.wikipedia.org/wiki/Selma_Lagerlöf
+description: ''
+gutenberg_issued: '2014-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47686'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Socialism -- Fiction'
+- !lcsh 'Sicily (Italy) -- Fiction'
+- !lcc 'PT'
+title: Antikristuksen ihmetyöt
+url: http://www.gutenberg.org/ebooks/47686
